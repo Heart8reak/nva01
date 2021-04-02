@@ -1,6 +1,5 @@
-# Getting Started with Create React App
+# Lake Nona Volleryball Family
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Website [Link](https://nva01-cbaez1223.vercel.app)
 
-## Available Scripts
 

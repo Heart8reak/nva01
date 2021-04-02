@@ -11,6 +11,7 @@ function Navbar() {
     const closeMobileMenu = () => setClick(false)
 
     const showButton = () => {
+        console.log('Button: ', button)
         if(window.innerWidth <= 960) {
             setButton(false)
         } else {
@@ -20,7 +21,7 @@ function Navbar() {
 
     useEffect(() => {
         showButton()
-    }, [])
+    })
 
     window.addEventListener('resize', showButton)
 
